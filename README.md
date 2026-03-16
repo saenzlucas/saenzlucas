@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdnd3B1YTR6eXF4cHJxbXV5aDRmNzJvdzRmOGt5N3RxZjVzYWZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>, soy Lucas Saenz</h1>
-  <h3>Desarrollador con enfoque en lenguajes orientados a objetos.</h3>
+  <h4>Desarrollador con enfoque en lenguajes orientados a objetos.</h4>
     
 <br>
 <h2>Tecnologías</h2> 
