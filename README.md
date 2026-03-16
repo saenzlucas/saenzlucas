@@ -23,14 +23,14 @@
 <h2>Estadísticas</h2> 
 <!--<img align="center" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=sLucas05&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>]-->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sLucas05&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api/top-langs?username=sLucas05&show_icons=false&theme=dark&include_all_commits=true&count_private=true" /> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saenzlucas&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api/top-langs?username=saenzlucas&show_icons=false&theme=dark&include_all_commits=true&count_private=true" /> 
 </div>
 
 <br>
 <h2>Contacto</h2>
  <p>
    <a href="mailto:lsaenz05@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-034fa0?logo=&logoColor=white"/></a> 
-   <a href="https://www.linkedin.com/in/lucas-saenz-022199271/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/saenzlucas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logo=&logoColor=white"/></a>
    <a href="https://discord.gg/UkdvDt57Yj" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?logo=&logoColor=white"/></a> 
    <!--<a href="https://discord.gg/UkdvDt57Yj" target="blank"><img alt="Discord" src="https://img.shields.io/badge/--7289DA?logo=discord&logoColor=white" height="35px" width="35px"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/saenzlucas/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/--FD1D1D?logo=instagram&logoColor=white" height="35px" width="35px"/></a>&nbsp;&nbsp;
