@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/badge/lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <br> <h6>Frameworks</h6>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-DC514A?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <br> <h6>Persistencia</h6>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Sqlite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white" />
   <br> <h6>Herramientas</h6>
   <img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white" />
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-DC514A?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 <br>
